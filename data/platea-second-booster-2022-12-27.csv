@@ -1,0 +1,85 @@
+area,reg,categoria_prevalente,totale_popolazione
+ABR,Abruzzo,fragili_immunocompromessi,157676
+ABR,Abruzzo,Ospiti RSA,6654
+ABR,Abruzzo,Over 60,245002
+ABR,Abruzzo,Personale Sanitario,42352
+BAS,Basilicata,fragili_immunocompromessi,81859
+BAS,Basilicata,Ospiti RSA,1751
+BAS,Basilicata,Over 60,105602
+BAS,Basilicata,Personale Sanitario,15872
+CAL,Calabria,fragili_immunocompromessi,220789
+CAL,Calabria,Ospiti RSA,12327
+CAL,Calabria,Over 60,309578
+CAL,Calabria,Personale Sanitario,55415
+CAM,Campania,fragili_immunocompromessi,610762
+CAM,Campania,Ospiti RSA,7643
+CAM,Campania,Over 60,939930
+CAM,Campania,Personale Sanitario,119338
+EMR,Emilia-Romagna,fragili_immunocompromessi,218778
+EMR,Emilia-Romagna,Ospiti RSA,25642
+EMR,Emilia-Romagna,Over 60,1058004
+EMR,Emilia-Romagna,Personale Sanitario,150326
+FVG,Friuli-Venezia Giulia,fragili_immunocompromessi,73490
+FVG,Friuli-Venezia Giulia,Ospiti RSA,7726
+FVG,Friuli-Venezia Giulia,Over 60,300326
+FVG,Friuli-Venezia Giulia,Personale Sanitario,43425
+LAZ,Lazio,fragili_immunocompromessi,63970
+LAZ,Lazio,Ospiti RSA,17427
+LAZ,Lazio,Over 60,1443961
+LAZ,Lazio,Personale Sanitario,95867
+LIG,Liguria,fragili_immunocompromessi,23749
+LIG,Liguria,Ospiti RSA,8835
+LIG,Liguria,Over 60,428323
+LIG,Liguria,Personale Sanitario,33031
+LOM,Lombardia,fragili_immunocompromessi,558573
+LOM,Lombardia,Ospiti RSA,72601
+LOM,Lombardia,Over 60,2374816
+LOM,Lombardia,Personale Sanitario,319089
+MAR,Marche,fragili_immunocompromessi,116459
+MAR,Marche,Ospiti RSA,8031
+MAR,Marche,Over 60,351741
+MAR,Marche,Personale Sanitario,51241
+MOL,Molise,fragili_immunocompromessi,12959
+MOL,Molise,Ospiti RSA,2133
+MOL,Molise,Over 60,75702
+MOL,Molise,Personale Sanitario,5689
+PAB,P.A. Bolzano,fragili_immunocompromessi,12532
+PAB,P.A. Bolzano,Ospiti RSA,2812
+PAB,P.A. Bolzano,Over 60,103180
+PAB,P.A. Bolzano,Personale Sanitario,14397
+PAT,P.A. Trento,fragili_immunocompromessi,4685
+PAT,P.A. Trento,Ospiti RSA,4878
+PAT,P.A. Trento,Over 60,131162
+PAT,P.A. Trento,Personale Sanitario,13857
+PIE,Piemonte,fragili_immunocompromessi,358280
+PIE,Piemonte,Ospiti RSA,33267
+PIE,Piemonte,Over 60,999124
+PIE,Piemonte,Personale Sanitario,178066
+PUG,Puglia,fragili_immunocompromessi,293736
+PUG,Puglia,Ospiti RSA,14048
+PUG,Puglia,Over 60,874233
+PUG,Puglia,Personale Sanitario,99206
+SAR,Sardegna,fragili_immunocompromessi,156072
+SAR,Sardegna,Ospiti RSA,9250
+SAR,Sardegna,Over 60,328977
+SAR,Sardegna,Personale Sanitario,63721
+SIC,Sicilia,fragili_immunocompromessi,599164
+SIC,Sicilia,Ospiti RSA,24285
+SIC,Sicilia,Over 60,690197
+SIC,Sicilia,Personale Sanitario,143546
+TOS,Toscana,fragili_immunocompromessi,126154
+TOS,Toscana,Ospiti RSA,16046
+TOS,Toscana,Over 60,952271
+TOS,Toscana,Personale Sanitario,114065
+UMB,Umbria,fragili_immunocompromessi,125510
+UMB,Umbria,Ospiti RSA,3496
+UMB,Umbria,Over 60,187403
+UMB,Umbria,Personale Sanitario,35733
+VDA,Valle d'Aosta,fragili_immunocompromessi,6235
+VDA,Valle d'Aosta,Ospiti RSA,1301
+VDA,Valle d'Aosta,Over 60,30076
+VDA,Valle d'Aosta,Personale Sanitario,5159
+VEN,Veneto,fragili_immunocompromessi,168648
+VEN,Veneto,Ospiti RSA,40821
+VEN,Veneto,Over 60,1130854
+VEN,Veneto,Personale Sanitario,148861
